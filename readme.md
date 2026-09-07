@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>AGENTE DE IA POR HAYANE.NASCIMENTO</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -17,91 +17,44 @@
 
 </p>
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
-
 <br/>
 <br/>
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer 
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+- [LLMS E INTRODUÇÃO A LINGUAGEM DE PROGRAMAÇÃO (PORTUGOL) ]
 
-- _Exemplo_:
-
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
   -
 
-- [Outros pré-requisitos, se aplicável]
+- [VIBECODING]
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+  - [Lógica de programação]
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
-
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+- [SINTESE E SEMÂNTICA]
 
 <!--START_SECTION:footer-->
 
 <br />
 <br />
+- [TREINAMENTO DE IAS]
+- [ANALISE DE DADOS]
+
+  - [EDIÇÃO DE CÓDIGOS NO VSCODE]
+
+## 🎯 Objetivos e Resultados Esperados
+
+Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+
+- [CONSTRUIR AGENTES DE IA COM FERRAMENTAS COMO GAMMA APP E LOVABLE USANDO VIBECODING]
+- [TREINAMENTO DE LLMS E TESTES DE RESPONSIVIDADE
 
 <p align="center">
   <a href="https://www.dio.me/" target="_blank">
